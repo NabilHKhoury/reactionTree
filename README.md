@@ -1,1 +1,3 @@
 # reactionTree
+This is a repository for a project idea that I had. Turning Organic Chemistry reactions into a graph problem. Once reactions are in a tree structure with weights being reactants or the objects added to a product in a directed graph that yields a different product. I will then develop an algorithm that can find the shortest path from one product to another product. 
+This project will have a practical purpose in the sense that knowing reaction pathways is a tedious task that takes up memory, and understanding which pathway is the most optimal to go from one product to another product can save someone from doing a reaction that takes hours when it could take minutes. 
